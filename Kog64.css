@@ -102,6 +102,9 @@ body{
 
 
 @media (min-width: 901px) {
+.bigtab{
+	width: 16%;
+}
 div{
 
 	align-content: center;
